@@ -4,6 +4,14 @@
   <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/QuiqueEspinosa/QuiqueEspinosa/assets/89802341/d0ba5363-9e90-440d-9c90-3bd83245176f" alt="my banner"></a>
 </p>
 
+ ## 📩 Connect
+* Do you have any question or project to work together? Don't hesitate! Coffee's on me ☕.
+
+<p align="left" >
+      <a href="mailto:EnriqueEspinosa2025@gmail.com?Subject=I%20want%20propose%20you%20something" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172060688-5e1bf6ca-7bb9-43a2-b202-001170434946.png"  width="45"></a>
+        <a href="https://www.linkedin.com/in/enrique-espinosa-010783251" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>
+
+</p>
 <!--
 **QuiqueEspinosa/QuiqueEspinosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
