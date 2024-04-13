@@ -1,5 +1,8 @@
 <h2 align=center> Hi I'm Enrique Espinosa 👋</h2> 
-![portadas-1](https://github.com/QuiqueEspinosa/QuiqueEspinosa/assets/89802341/d0ba5363-9e90-440d-9c90-3bd83245176f)
+
+<p align="center">
+  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/QuiqueEspinosa/QuiqueEspinosa/assets/89802341/d0ba5363-9e90-440d-9c90-3bd83245176f" alt="my banner"></a>
+</p>
 
 <!--
 **QuiqueEspinosa/QuiqueEspinosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
