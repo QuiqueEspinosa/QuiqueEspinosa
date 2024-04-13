@@ -1,4 +1,5 @@
-### Hi there 👋
+<h2 align=center> Hi I'm Enrique Espinosa 👋</h2> 
+![portadas-1](https://github.com/QuiqueEspinosa/QuiqueEspinosa/assets/89802341/d0ba5363-9e90-440d-9c90-3bd83245176f)
 
 <!--
 **QuiqueEspinosa/QuiqueEspinosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## ⌨️ Languages 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuiqueEspinosa&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
